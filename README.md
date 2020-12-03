@@ -1,3 +1,3 @@
 ### Hi there :cloud:
 
-My name is benjamin, I'm 17 years old, I code and study in my free time, currently working at akiza.io and byte.cheap
+My name is Benjamin, I'm 17 years old, I like to program in C# at night and PHP by day, I'm currently working on https://authenty.me/ and https://byte.cheap/
