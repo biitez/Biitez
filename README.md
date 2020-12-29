@@ -9,9 +9,9 @@
 ```csharp
 Dictionary<string, string> Biitez = new Dictionary<string, string>()
 {
-  { "Knowledge", "C# - VB.NET - Web Developer (PHP)" },
+  { "Knowledge", "C#, VB.NET, Web Developer (PHP)" },
   { "Projects", "ByteChecker, Authenty.ME, Akiza.IO" },
-  { "Tools", "Visual Studio - JetBrains Rider - GitHub" },
+  { "Tools", "Visual Studio, JetBrains Rider, GitHub" },
   { "OS", "Windows 10" }
 };
 ```
