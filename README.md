@@ -16,6 +16,13 @@ Dictionary<string, string> Biitez = new Dictionary<string, string>()
 };
 ```
 
+
+<h2 align="center">Statistics</h2>
+
+![Biitez's github stats](https://github-readme-stats.vercel.app/api?username=biitez&show_icons=false&theme=radical)
+![Biitez's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=biitez&layout=compact&theme=radical) 
+
+
 <h2 align="center">Contact :speech_balloon:</h2>
 
 <p align="center">
