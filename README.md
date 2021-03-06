@@ -36,4 +36,4 @@ Dictionary<string, string> Biitez = new Dictionary<string, string>()
 </a>
             
 </p>
-<h4 align="center"> Discord: biitez#1717 </h4>
+<h4 align="center"> New Discord: biitez#8568 </h4>
