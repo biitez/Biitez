@@ -1,27 +1,21 @@
 <h2 align="center">Hello!, I'm Biitez. 👋</h2>
 
-<h4 align="center">I am a 17-year-old self-taught developer, addicted to <s>coffee</s> at night and watching netflix by day :cookie:</h4>
+<h4 align="center">I am a 17-year-old self-taught developer, I like to program in my free time and watch Netflix when I have things to do D:</h4>
 
 <br>
 
 <h4>:cyclone: Some more things about me...</h4>
 
 ```csharp
-Dictionary<string, string> Biitez = new Dictionary<string, string>()
+Dictionary<string, string> BiitezMind = new Dictionary<string, string>()
 {
-  { "Knowledge", "C#, VB.NET, Web Developer (PHP)" },
+  { "Knowledge", "C#, Back-End (PHP)" },
   { "Projects", "ByteChecker, Authenty.ME, Akiza.IO" },
-  { "Tools", "Visual Studio, JetBrains Rider, GitHub" },
-  { "OS", "Windows 10" }
+  { "Bored most of the time", true.ToString() },
+  { "Tools", "VS, Sublime, Rider, GitHub" },
+  { "OS", "Windows 10" }  
 };
 ```
-
-
-<h2 align="center">Statistics</h2>
-
-![Biitez's github stats](https://github-readme-stats.vercel.app/api?username=biitez&show_icons=false&theme=radical)
-![Biitez's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=biitez&layout=compact&theme=radical) 
-
 
 <h2 align="center">Contact :speech_balloon:</h2>
 
