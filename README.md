@@ -1,6 +1,6 @@
-<h2 align="center">Hello!, I'm Biitez. 👋</h2>
+<h2 align="center">Hey there!, I'm Biitez. 👋</h2>
 
-<h4 align="center">I am a 17-year-old self-taught developer, I like to program in my free time and watch Netflix when I have things to do D:</h4>
+<h4 align="center">I am a 17 year old self-taught developer, I like to program, read docs and invest in my free time</h4>
 
 <br>
 
@@ -9,11 +9,10 @@
 ```csharp
 var BiitezMind = new Dictionary<string, string>()
 {
-  { "Knowledge", "C#, Back-End (PHP)" },
-  { "Projects", "ByteChecker, Authenty.ME, Akiza.IO" },
-  { "Bored most of the time", true.ToString() },
+  { "Knowledge", "C# & PHP" },
+  { "Projects", "Authenty.ME, Akiza.IO, ByteChecker (Temporarily paused)" },
   { "Tools", "VS, Sublime, Rider, GitHub" },
-  { "Interests", "Cryptography, Theoretical Information and Cyber-Security" },
+  { "Interests", "Trading, Cryptography, Theoretical Information and Cyber-Security" },
   { "OS", "Windows 10" }
 };
 ```
