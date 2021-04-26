@@ -1,13 +1,9 @@
-<h2 align="center">Hey there!, I'm Biitez. 👋</h2>
-
-<h4 align="center">I am a 17 year old self-taught developer, I like to program, read docs and invest in my free time</h4>
+<h3 align="center">Hi 👋, I'm biitez</h3>
 
 <br>
 
-<h4>:cyclone: Some more things about me...</h4>
-
 ```csharp
-var BiitezMind = new Dictionary<string, string>()
+var @about_me = new Dictionary<string, string>()
 {
   { "Knowledge", "C# & PHP" },
   { "Projects", "Authenty.ME, Akiza.IO, ByteChecker (Temporarily paused)" },
