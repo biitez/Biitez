@@ -1,24 +1,59 @@
-<h3 align="center">Hi 👋, I'm biitez</h3>
+<h3>Introduction</h3>
 
-<br>
+My name is Benjamín, better known as biitez or bnja in some forums, 
+I am 17 years old and I live in Chile.
 
-```csharp
-var @about_me = new Dictionary<string, string>()
-{
-  { "Knowledge", "C# & PHP" },
-  { "Projects", "Authenty.ME, Akiza.IO, ByteChecker (Temporarily paused)" },
-  { "Tools", "VS, Sublime, Rider, GitHub" },
-  { "Interests", "Trading, Cryptography, Theoretical Information and Cyber-Security" },
-  { "OS", "Windows 10" }
-};
-```
+I have been developing in .NET for several years, I am passionate about web security and cryptographic algorithms.
+
+I like the back-end much more than the front-end.
+
+<h4>Interests</h4>
+
+- Cryptographic algorithms.
+- Theoretical information & analysis.
+- Multiplatform development.
+- Cyber-Security.
+- Freelancing.
+
+
+
+<h3>Knowledge</h3>
+
+I can create desktop/web applications in C# or Visual Basic (tho I hate VB) and backend using PHP.
+
+- Self taught web/desktop developer
+- .NET Reverse Engineering (WIP)
+- Graphic design (hobby)
+
+<h3>Projects</h3>
+
+- <a href="https://biitez.dev/services/authenty">AuthentyME</a>: Secure licensing system based on API-Webs.
+- <a href="https://akiza.io">Akiza X</a>: Best checker ever created for Twitter (made for educational proposes).
+- ByteChecker (Temp. discontinued): Powerful Minecraft Account Checker.
+
+<h3>Social Media</h3>
 
 <p align="center">
-  <a href="https://twitter.com/blltez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="biitez" height="20" width="20" /></a>
+  <a href="https://instagram.com/baazj_w" target="blank"><img align="center" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" alt="Instagram" height="20" width="20" /></a>
+  <a href="https://twitter.com/blltez" target="blank"><img align="center" src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" alt="Twitter" height="20" width="20" /></a>
+  <a href="https://t.me/biitez" target="blank"><img align="center" src="https://camo.githubusercontent.com/f4b401dd7cd9b7840fd31acafd49e151a80e4c9600bf219934461b96dd98e013/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" alt="Telegram" height="20" width="20" /></a>
+  <a href="https://discord.gg/ZE2kBUqy46" target="blank"><img align="center" src="https://camo.githubusercontent.com/79fcdc7c43f1a1d7c175827976ffee8177814a016fb1b9578ff70f1aef759578/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646973636f72642e737667" alt="Discord" height="20" width="20" /></a>
+  <a href="https://www.reddit.com/u/biitez1717" target="blank"><img align="center" src="https://camo.githubusercontent.com/521640dc2dba501cde1805c0a42cecf5ccf7fc1378f542fe9fda756fb36add25/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7265646469742e737667" alt="Reddit" height="20" width="20" /></a>
 </p>
 
+<hr>
+
+My native language is Spanish, but I commonly speak English to many people on the internet.
+
+In my spare time I make tools for cracked.to and when I'm not programming, I watch Netflix, I play osu! , rocket league or Minecraft.
+
+<h3>PGP (Pretty Good Privacy)</h3>
+
+If you want to contact me about a security issue, please encrypt your communications using PGP.
+
+
 <details>
-  <summary><strong>PGP Public Key</strong></summary>
+  <summary><strong>Public Key</strong></summary>
   
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -76,3 +111,13 @@ MKL3z6EUoTurIb8n5qxoK1ixuIGEBSs8LAODdOxQUr1XQL2KCV3s7K15OqD3
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 </details>
+
+<hr>
+
+<h3>Notes</h3>
+
+The services I offer require large space on my server, I would be grateful if you would donate to me to continue maintaining them!
+
+- Bitcoin: bc1qhkl8kmardm8jcmn5jtm8u78v8jc7hzsu0weea2
+
+If you like what I do, I would really appreciate it if you would follow me!
