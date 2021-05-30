@@ -45,7 +45,7 @@ I can create desktop/web applications in C# or Visual Basic (tho I hate VB) and 
 
 My native language is Spanish, but I commonly speak English to many people on the internet.
 
-In my spare time I make tools for cracked.to and when I'm not programming, I watch Netflix, I play osu! , rocket league or Minecraft.
+In my spare time I make tools for <a href="https://cracked.to/bnja">cracked.to</a> and when I'm not programming, I watch Netflix, I play osu! , rocket league or Minecraft.
 
 <h3>PGP (Pretty Good Privacy)</h3>
 
