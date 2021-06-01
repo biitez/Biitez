@@ -15,8 +15,6 @@ I like the back-end much more than the front-end.
 - Cyber-Security.
 - Freelancing.
 
-
-
 <h3>Knowledge</h3>
 
 I can create desktop/web applications in C# or Visual Basic (tho I hate VB) and backend using PHP.
@@ -31,7 +29,7 @@ I can create desktop/web applications in C# or Visual Basic (tho I hate VB) and 
 - <a href="https://akiza.io">AKIZA X</a>: Best checker ever created for Twitter (made for educational proposes).
 - ByteChecker (Temp. discontinued): Powerful Minecraft Account Checker.
 
-<h3>Social Media</h3>
+<h3>Contact</h3>
 
 <p align="center">
   <a href="https://instagram.com/baazj_w" target="blank"><img align="center" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" alt="Instagram" height="35" width="35" /></a>
@@ -41,13 +39,7 @@ I can create desktop/web applications in C# or Visual Basic (tho I hate VB) and 
   <a href="https://www.reddit.com/u/biitez1717" target="blank"><img align="center" src="https://camo.githubusercontent.com/521640dc2dba501cde1805c0a42cecf5ccf7fc1378f542fe9fda756fb36add25/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7265646469742e737667" alt="Reddit" height="35" width="35" /></a>
 </p>
 
-<hr>
-
-My native language is Spanish, but I commonly speak English to many people on the internet.
-
-In my spare time I make tools for <a href="https://cracked.to/bnja">cracked.to</a> and when I'm not programming, I watch Netflix, I play osu! , rocket league or Minecraft.
-
-<h3>PGP (Pretty Good Privacy)</h3>
+<h4>PGP (Pretty Good Privacy)</h4>
 
 If you want to contact me about a security issue, please encrypt your communications using PGP.
 
@@ -111,6 +103,12 @@ MKL3z6EUoTurIb8n5qxoK1ixuIGEBSs8LAODdOxQUr1XQL2KCV3s7K15OqD3
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 </details>
+
+<hr>
+
+My native language is Spanish, but I commonly speak English to many people on the internet.
+
+In my spare time I make tools for <a href="https://cracked.to/bnja">cracked.to</a> and when I'm not programming, I watch Netflix, I play osu! , rocket league or Minecraft.
 
 <hr>
 
