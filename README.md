@@ -1,23 +1,29 @@
+<a href="https://biitez.dev">
+
+<img src="https://i.ibb.co/d6K4TKz/d2eb600c80c27ee32a019bcddccbc83ec7394c92r1-500-150-hq.gif" height="80%" width="80%" style="display: block; margin-left: auto; margin-right: auto;">
+
+</a>
+
 <h3>Introduction</h3>
 
-My name is Benjamín, better known as biitez or bnja in some forums, 
+Hi, my name is <b><i>Benjamín</i></b>, better known as <b><i>biitez/bnja</i></b> in some forums, 
 I am 17 years old and I live in Chile.
 
 I have been developing in .NET for several years, I am passionate about web security and cryptographic algorithms.
 
-I like the back-end much more than the front-end.
+<b><i>I like the back-end much more than the front-end.</i></b>
 
 <h3>Interests</h3>
 
 - Cryptographic algorithms.
 - Theoretical information & analysis.
 - Multiplatform development.
-- Cyber-Security.
+- Cyber/Web-Security.
 - Freelancing.
 
 <h3>Knowledge</h3>
 
-I can create desktop/web applications in C# or Visual Basic (tho I hate VB) and backend using PHP.
+I can create desktop/web applications in C# or Visual Basic (I hate VB tho) and backend using PHP.
 
 - Self taught web/desktop developer
 - .NET Reverse Engineering (WIP)
@@ -33,12 +39,13 @@ I can create desktop/web applications in C# or Visual Basic (tho I hate VB) and 
 
 <p align="center">
   <a href="https://instagram.com/baazj_w" target="blank"><img align="center" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" alt="Instagram" height="35" width="35" /></a>
-  <a href="https://twitter.com/blltez" target="blank"><img align="center" src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" alt="Twitter" height="35" width="35" /></a>
   <a href="https://t.me/biitez" target="blank"><img align="center" src="https://camo.githubusercontent.com/f4b401dd7cd9b7840fd31acafd49e151a80e4c9600bf219934461b96dd98e013/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" alt="Telegram" height="35" width="35" /></a>
   <a href="https://discord.gg/ZE2kBUqy46" target="blank"><img align="center" src="https://camo.githubusercontent.com/79fcdc7c43f1a1d7c175827976ffee8177814a016fb1b9578ff70f1aef759578/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646973636f72642e737667" alt="Discord" height="35" width="35" /></a>
 </p>
 
 If you want to contact me about a security issue, please encrypt your communications using PGP.
+
+<i><b>Email: biitez@obito.dev</i></b>
 
 
 <details>
@@ -105,7 +112,7 @@ MKL3z6EUoTurIb8n5qxoK1ixuIGEBSs8LAODdOxQUr1XQL2KCV3s7K15OqD3
 
 My native language is Spanish, but I commonly speak English to many people on the internet.
 
-In my spare time I make tools for <a href="https://cracked.to/bnja">cracked.to</a> and when I'm not programming, I play Osu! or Rocket League
+In my spare time I make tools for <a href="https://cracked.to/bnja">cracked.to</a> and when I'm not programming, I play Osu!.
 
 <hr>
 
