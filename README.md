@@ -1,8 +1,3 @@
-<a href="https://biitez.dev">
-
-<img src="https://i.ibb.co/d6K4TKz/d2eb600c80c27ee32a019bcddccbc83ec7394c92r1-500-150-hq.gif" height="80%" width="80%" style="display: block; margin-left: auto; margin-right: auto;">
-
-</a>
 
 <h3>Introduction</h3>
 
@@ -106,20 +101,4 @@ MKL3z6EUoTurIb8n5qxoK1ixuIGEBSs8LAODdOxQUr1XQL2KCV3s7K15OqD3
 =Fiv1
 -----END PGP PUBLIC KEY BLOCK-----
 ```
-</details>
-
-<hr>
-
-My native language is Spanish, but I commonly speak English to many people on the internet.
-
-In my spare time I make tools for <a href="https://cracked.to/bnja">cracked.to</a> and when I'm not programming, I play Osu!.
-
-<hr>
-
-<details>
-  <summary><strong>Note</strong></summary>
-
-The services I offer require large space on my server, I would be grateful if you would donate to me to continue maintaining them!
-
-- Bitcoin: bc1qhkl8kmardm8jcmn5jtm8u78v8jc7hzsu0weea2
 </details>
