@@ -1,4 +1,3 @@
-
 <h3>Introduction</h3>
 
 Hi, my name is <b><i>Benjamín</i></b>, better known as <b><i>biitez/bnja</i></b> in some forums, 
@@ -20,15 +19,18 @@ I have been developing in .NET for several years, I am passionate about web secu
 
 I can create desktop/web applications in C# or Visual Basic (I hate VB tho) and backend using PHP.
 
-- Self taught web/desktop developer
-- .NET Reverse Engineering (WIP)
-- Graphic design (hobby)
+- Self taught web/desktop developer.
+- .NET Reverse Engineering (WIP).
+- Graphic design (hobby).
 
 <h3>Projects</h3>
 
-- <a href="https://biitez.dev/services/authenty">AuthentyME</a>: Secure licensing system based on API-Webs.
-- <a href="https://akiza.io">AKIZA X</a>: Best checker ever created for Twitter (made for educational proposes).
-- ByteChecker (Temp. discontinued): Powerful Minecraft Account Checker.
+- <a href="https://biitez.dev/services/authenty">Authenty.ME</a>: Secure licensing for .NET with asymmetric encryption and extensive control panel (Freemium).
+- <a href="https://akiza.io">Akiza X</a>: Pentesting tool that massively check Twitter accounts and captures account information (Educational Purposes).
+- <a href="https://github.com/biitez/AWare">AWare</a>: Proof of concept of a ransomware created in C# and PHP (Open Source).
+- <a href="https://github.com/biitez/Kaiju">Kaiju</a>: OAuth-based verification for discord servers with the function of migrating the users to a new server (Open Source).
+- <a href="https://github.com/biitez/CryptoLicense.NET">CryptoLicensing</a>: Licensing system for .NET with symmetric encryption based on APIs (Open Source).
+- ByteChecker (Temporarily discontinued)
 
 <h3>Contact</h3>
 
