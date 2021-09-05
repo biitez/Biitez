@@ -1,7 +1,7 @@
 <h3>Introduction</h3>
 
 Hi, my name is <b><i>Benjamín</i></b>, better known as <b><i>biitez/bnja</i></b> in some forums, 
-I am 17 years old and I live in Chile.
+I am 18 years old and I live in Chile.
 
 I have been developing in .NET for several years, I am passionate about web security and cryptographic algorithms.
 
