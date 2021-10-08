@@ -1,17 +1,16 @@
-<h3>Introduction</h3>
+<p align="center">
+  <img src="https://i.ibb.co/dLc7w2q/WQUCst-edited-1.jpg" width="70%">
+</p>
 
-Hi, my name is <b><i>Benjamín</i></b>, better known as <b><i>biitez/bnja</i></b> in some forums, 
-I am 18 years old and I live in Chile.
-
-I have been developing in .NET for several years, I am passionate about web security and cryptographic algorithms.
-
-<b><i>I like the back-end much more than the front-end.</i></b>
+<p align="center">
+  Hello, my name is <b><i>Benjamín</i></b>, I am an 18 year old Chilean self-taught developer.
+</p>
 
 <h3>Interests</h3>
 
 - Cryptographic algorithms.
 - Theoretical information & analysis.
-- Multiplatform development.
+- Cross-platform development.
 - Cyber/Web-Security.
 - Freelancing.
 
@@ -23,7 +22,7 @@ I can create desktop/web applications in C# or Visual Basic (I hate VB tho) and 
 - .NET Reverse Engineering (WIP).
 - Graphic design (hobby).
 
-<h3>Projects</h3>
+<h3>Some of my public projects</h3>
 
 - <a href="https://biitez.dev/services/authenty">Authenty.ME</a>: Secure licensing for .NET with asymmetric encryption and extensive control panel (Freemium).
 - <a href="https://akiza.io">Akiza X</a>: Pentesting tool that massively check Twitter accounts and captures account information (Educational Purposes).
